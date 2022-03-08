@@ -1,2 +1,2 @@
-# aresachin-Project-2--EDA-on-Covid-19-Gadchiroli-data
+# Project-2--EDA-on-Covid-19-Gadchiroli-data
 The Covid-19 Pandemic is the greatest humanitarian crisis we’ve faced since World War 2. It is the most defining Global health crisis of our time. The primary objective of this project is to analyse a dataset of 19 patients from Gadchiroli, Maharashtra. R programming is used in this project with R Libraries: readxl, moments, ggplot2. Note: All the data used and inference drawn in this project got from NGO. so the results might be vary or outdated.
